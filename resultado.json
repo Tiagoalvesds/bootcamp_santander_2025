@@ -1,0 +1,350 @@
+[
+  {
+    "ID": "AC00128",
+    "NOME": "San Diego",
+    "CONTA": "AC00128",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Transforme seu dinheiro em seu futuro! Investir hoje é garantir um amanhã mais seguro e mais rico. Vamos construir seu patrimônio juntos!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00455",
+    "NOME": "Houston",
+    "CONTA": "AC00455",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Crie seu futuro com segurança! Investimentos são a chave para prosperidade e independência financeira. Comece agora e alcance seus sonhos!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00019",
+    "NOME": "Mesa",
+    "CONTA": "AC00019",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Desenvolva seu futuro: os investimentos ajudam a proteger e aumentar seu patrimônio, garantindo uma vida mais segura e independente.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00070",
+    "NOME": "Raleigh",
+    "CONTA": "AC00070",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Crie seu futuro com os investimentos da nossa instituição! Proteja seu patrimônio, cresça seu dinheiro e conquiste seus sonhos!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00411",
+    "NOME": "Atlanta",
+    "CONTA": "AC00411",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Dinheiro para o futuro é um investimento, não uma despesa. Comece a construir seu patrimônio hoje!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00393",
+    "NOME": "Oklahoma City",
+    "CONTA": "AC00393",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"O seu dinheiro merece crescer! Investir hoje é a chave para uma vida financeiramente segura e independente. Vamos trabalhar juntos para seu futuro!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00199",
+    "NOME": "Seattle",
+    "CONTA": "AC00199",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Transforme seu dinheiro em futuro! Investir hoje, garante um amanhã mais seguro e próspero.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00069",
+    "NOME": "Indianapolis",
+    "CONTA": "AC00069",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Invista com sabedoria, construa seu futuro!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00135",
+    "NOME": "Detroit",
+    "CONTA": "AC00135",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Transforme seu dinheiro em futuro seguro! Investir é a chave para construir riqueza e garantir a sua estabilidade financeira. Vamos começar agora!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00385",
+    "NOME": "Nashville",
+    "CONTA": "AC00385",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Construa seu futuro com segurança! Investimentos: proteja seu patrimônio, cresça seu dinheiro e vivencie a liberdade financeira!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00150",
+    "NOME": "Albuquerque",
+    "CONTA": "AC00150",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Construa seu futuro com investimentos seguros e lucrativos. Cresça seu patrimônio e conquiste seus objetivos financeiros com nossas opções de investimento personalizadas.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00459",
+    "NOME": "Memphis",
+    "CONTA": "AC00459",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Transforme seu dinheiro em riqueza! Investir é a chave para o sucesso financeiro. Faça a diferença em 5 minutos com a nossa equipe!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00392",
+    "NOME": "Mesa",
+    "CONTA": "AC00392",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Construa seu futuro com investimentos seguros e rentáveis. Cresça seu patrimônio e aproveite a liberdade financeira!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00264",
+    "NOME": "Memphis",
+    "CONTA": "AC00264",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Invista no futuro, não apenas em dinheiro. Cresça seu patrimônio e construa uma vida mais segura e próspera.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00085",
+    "NOME": "Louisville",
+    "CONTA": "AC00085",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Transforme seu dinheiro em um patrimônio sólido. Investimentos garantem sua segurança financeira e futuro próspero.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00270",
+    "NOME": "Denver",
+    "CONTA": "AC00270",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Invista em seu futuro! Com os nossos serviços, você pode crescer seu patrimônio e construir uma vida mais segura e tranquila. Comece agora mesmo!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00317",
+    "NOME": "Austin",
+    "CONTA": "AC00317",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Desenvolva seu futuro, não apenas o presente! Investimentos seguros e rentáveis para você.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00359",
+    "NOME": "Columbus",
+    "CONTA": "AC00359",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Investir hoje, construa sua economia para amanhã. Cresça seu patrimônio com segurança e tranquilidade.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00242",
+    "NOME": "Albuquerque",
+    "CONTA": "AC00242",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Invista no seu futuro! Cresça seu dinheiro com segurança e lucro. Consulte-nos hoje mesmo sobre as melhores opções para você!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00285",
+    "NOME": "Columbus",
+    "CONTA": "AC00285",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Invista sabiamente, construa seu futuro. Com os nossos serviços, você pode alcançar seus objetivos financeiros e vivenciar a liberdade que você sempre sonhou.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00002",
+    "NOME": "Los Angeles",
+    "CONTA": "AC00002",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Construa seu futuro com investimentos seguros e rentáveis. Cresça seu patrimônio sem riscos excessivos!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00014",
+    "NOME": "Las Vegas",
+    "CONTA": "AC00014",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Investir hoje, constrói seu futuro. Cresça seu patrimônio e alcance seus objetivos financeiros com segurança e tranquilidade!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00095",
+    "NOME": "Atlanta",
+    "CONTA": "AC00095",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Invista no seu futuro! Com nossos investimentos, aumente seu patrimônio e segure a inflação. Comece hoje mesmo!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00453",
+    "NOME": "Fort Worth",
+    "CONTA": "AC00453",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Desenvolva seu futuro! Investimentos são a chave para crescimento financeiro e segurança. Comece a construir sua riqueza hoje!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00241",
+    "NOME": "Raleigh",
+    "CONTA": "AC00241",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Desperte o seu dinheiro: Invista hoje e transforme suas finanças agora e no futuro!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00041",
+    "NOME": "Houston",
+    "CONTA": "AC00041",
+    "CARTAO": "Credit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Invista no seu futuro! Aumente seu patrimônio com investimentos seguros e rentáveis. Cresça com segurança, não apenas com sorte!\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00441",
+    "NOME": "Miami",
+    "CONTA": "AC00441",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Invista hoje, construa o futuro! Além de proteger seu patrimônio, os investimentos podem gerar renda e crescimento financeiro seguro.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00057",
+    "NOME": "Milwaukee",
+    "CONTA": "AC00057",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Investe na sua vida, não apenas em dinheiro. Cresça seu patrimônio, conquiste sua liberdade financeira e viva com tranquilidade.\""
+      }
+    ]
+  },
+  {
+    "ID": "AC00390",
+    "NOME": "Las Vegas",
+    "CONTA": "AC00390",
+    "CARTAO": "Debit",
+    "news": [
+      {
+        "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+        "description": "\"Transforme seu dinheiro em seu futuro! Investir é o caminho seguro para a estabilidade financeira e a realização dos seus sonhos.\""
+      }
+    ]
+  }
+]
