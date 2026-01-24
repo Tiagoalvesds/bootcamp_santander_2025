@@ -6,8 +6,8 @@ from groq import Groq
 # CONFIGURAÇÕES
 # =========================
 
-CSV_PATH = "/home/iauser/1.Tiago_Alves/Bootcamp/santander/SDW2023.csv"
-OUTPUT_PATH = "/home/iauser/1.Tiago_Alves/Bootcamp/santander/a.json"
+CSV_PATH = "/home/nootebook/1.Tiago_Alves/Bootcamp/santander/SDW2023.csv"
+OUTPUT_PATH = "/home/nootebook/1.Tiago_Alves/Bootcamp/santander/a.json"
 
 # ⚠️ INSIRA SUA API KEY DA GROQ (apague depois)
 GROQ_API_KEY = "xxxxxxxxxxxxxxxxxxx"
